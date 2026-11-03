@@ -191,3 +191,7 @@ The existing `migration.test` domain was successfully transitioned to **MIG-DC02
 
 **Skills demonstrated:** Active Directory Domain Services · Windows Server modernization · DNS/DC Locator · DFS Replication · FSMO role management · Kerberos · PowerShell diagnostics · Windows Server Backup · Domain controller lifecycle management · Root-cause investigation · Technical documentation
 
+## Technical Documentation
+
+For detailed migration procedures, PowerShell commands, validation results, FSMO role transfers, Kerberos authentication testing, and DNS replication troubleshooting, see the [Technical Migration Report](docs/TECHNICAL-MIGRATION-REPORT.md).
+
