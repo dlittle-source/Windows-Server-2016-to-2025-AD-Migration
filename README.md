@@ -1,6 +1,10 @@
 # Enterprise Active Directory Modernization
 ## Windows Server 2016 → Windows Server 2025 | Side-by-Side Domain Controller Migration
 
+## Migration Architecture
+
+![Windows Server 2016 to 2025 Active Directory Migration Architecture](screenshots/AD-Migration-Architecture.png)
+
 **Project type:** Hands-on infrastructure engineering lab  
 **Platform:** Oracle VirtualBox | Windows Server 2016 / 2025 | Windows 11  
 **Domain:** `migration.test`  
